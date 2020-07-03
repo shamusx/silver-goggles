@@ -2,7 +2,6 @@
 $content_lib_name = LAB-CL
 $template_name = "k8-template"
 
-# infrastructure values
 $vCenterServer = "vcsa.zoo.lab"
 $vCenterUser = "administrator@vsphere.local"
 $vCenterPassword = "password123"
